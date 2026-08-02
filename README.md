@@ -14,6 +14,7 @@
 [<img alt="CKA Badge" width="80px" src="media/images/CKA_badge.png" />](https://www.credly.com/badges/c918310e-0112-4d52-a23f-dd1b26e8f0e1/public_url)
 
 [<img alt="AWS Developer Associate Badge" width="80px" src="media/images/AWS_developer_associate_badge.png" />](https://www.credly.com/badges/02ebb79a-b4a8-42c9-8252-4e29b141dee8/public_url)
+[<img alt="AWS Solutions Architect Associate Badge" width="80px" src="media/images/AWS_solutions_architect_associate_badge.png" />](https://www.credly.com/badges/1c4f6621-f9b3-47b1-b19f-51f2c376f287/public_url)
 <!-- markdownlint-enable MD033 -->
 
 ## GitHub stats
