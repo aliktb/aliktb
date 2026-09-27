@@ -12,6 +12,7 @@
 [<img alt="LFD459 Badge" width="80px" src="media/images/LFD459_badge.png" />](https://www.credly.com/badges/d618260d-8883-4363-89aa-d6c5ea7f3bba/public_url)
 [<img alt="CKAD Badge" width="80px" src="media/images/CKAD_badge.png" />](https://www.credly.com/badges/91297e8e-96bd-4efa-8789-addadf7f03bb/public_url)
 [<img alt="CKA Badge" width="80px" src="media/images/CKA_badge.png" />](https://www.credly.com/badges/c918310e-0112-4d52-a23f-dd1b26e8f0e1/public_url)
+[<img alt="KCNA Badge" width="80px" src="media/images/KCNA_badge.png" />](https://www.credly.com/badges/078ef23a-950c-45ee-b13f-708cf641eb8f/public_url)
 
 [<img alt="AWS Developer Associate Badge" width="80px" src="media/images/AWS_developer_associate_badge.png" />](https://www.credly.com/badges/02ebb79a-b4a8-42c9-8252-4e29b141dee8/public_url)
 [<img alt="AWS Solutions Architect Associate Badge" width="80px" src="media/images/AWS_solutions_architect_associate_badge.png" />](https://www.credly.com/badges/1c4f6621-f9b3-47b1-b19f-51f2c376f287/public_url)
